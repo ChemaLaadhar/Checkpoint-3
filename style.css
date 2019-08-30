@@ -1,0 +1,64 @@
+body{background:Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+    Linear-gradient(127deg, black, black 70.71%),
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);}
+    /* #images {
+        width:75%;
+       margin: auto;} */
+div1,div2,div3{display:inline-block;
+   
+display:flex;
+justify-content: center;
+}
+div1 img,div2 img,div3 img{
+    margin: 25px;
+}
+.r
+
+{display:inline-block;
+    display:flex;
+    justify-content:center;
+}
+
+a{color: white;
+    
+    display:inline-block;
+    display:flex;
+    justify-content: center;} 
+
+a:hover{color: red;}
+#nav{
+    display:flex;
+    justify-content:space-around;
+ 
+   
+}
+#nav a{
+    margin: 10px;
+    margin-left:-50px;
+}
+.t,#form{display: flex;
+    justify-content: center;
+    color:white;}
+
+    .text{
+        color:white;
+        display: flex;
+        align-content: center;
+        justify-content: center;
+     background-image:url("https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png");
+        width:100%;
+        height: 100%; }
+        .text h1{
+            position: relative;
+            top: 50%;
+        }
+button,select
+        { margin:10px;}
+        #More{
+            color: white;
+            font-size: 3em;
+        }
+ #textarea
+ {box-sizing:border-box;
+width:40%;
+height:10em;}
